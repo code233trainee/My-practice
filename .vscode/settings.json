@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "vector": "cpp",
+        "xutility": "cpp",
+        "stdexcept": "cpp",
+        "iosfwd": "cpp",
+        "xstring": "cpp",
+        "ostream": "cpp",
+        "thread": "cpp",
+        "*.rh": "cpp",
+        "algorithm": "cpp",
+        "cctype": "cpp",
+        "xmemory": "cpp",
+        "cmath": "cpp",
+        "locale": "cpp",
+        "chrono": "cpp",
+        "memory": "cpp",
+        "limits": "cpp",
+        "random": "cpp",
+        "utility": "cpp",
+        "mutex": "cpp"
+    }
+}
